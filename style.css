@@ -1,0 +1,32 @@
+.login-titulo {
+    border: 1px solid gray;
+}
+
+.todos-login {
+    border: 1px solid gray;
+}
+
+.contato-titulo {
+    border: 1px solid gray;
+}
+
+.dados-contato {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+#senha{
+    width: 70px;
+}
+#confirmar_senha{
+    width: 70px;
+}
+#numero{
+    width: 70px;
+}
+#nome{
+    width: 350px;
+}
+#sobrenome{
+    width: 350px;
+}
